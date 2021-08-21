@@ -59,3 +59,6 @@ The output images are available under `./result/{exp_name}/test/`
   year = {2021}
 }
 ```
+
+## Contact
+Please contact me if there is any question (Zifan Shi, vivianszf9@gmail.com).
